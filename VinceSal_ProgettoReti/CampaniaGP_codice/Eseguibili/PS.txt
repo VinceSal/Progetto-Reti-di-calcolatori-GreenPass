@@ -1,0 +1,4 @@
+//PostScriptum.txt
+
+Lascio in questa cartella i file eseguibili, nel caso in cui possano essere
+utili per velocizzare l'esecuzione dei vari file.c
